@@ -62,9 +62,7 @@
     "immutable": "^3.7.2",
     "moment": "^2.14.1",
     "moment-range": "^2.0.3",
-    "react-addons-pure-render-mixin": "^0.14.0 || 15.x.x"
-  },
-  "devDependencies": {
+    "react-addons-pure-render-mixin": "^0.14.0 || 15.x.x",
     "babel-cli": "^6.14.0",
     "babel-core": "^6.14.0",
     "babel-eslint": "^6.1.2",
