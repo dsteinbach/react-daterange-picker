@@ -4,12 +4,12 @@
   "description": "A React based date range picker",
   "author": "Jonathan Kim <jonathan.kim@onefinestay.com>",
   "scripts": {
-    "develop": "gulp develop",
-    "build-dist-js": "gulp build-dist-js",
-    "test": "gulp test-coverage",
-    "lint": "gulp lint",
-    "deploy-example": "gulp deploy-example",
-    "postinstall": "gulp build-dist"
+    "develop": "./node_modules/.bin/gulp develop",
+    "build-dist-js": "./node_modules/.bin/gulp build-dist-js",
+    "test": "./node_modules/.bin/gulp test-coverage",
+    "lint": "./node_modules/.bin/gulp lint",
+    "deploy-example": "./node_modules/.bin/gulp deploy-example",
+    "postinstall": "./node_modules/.bin/gulp build-dist"
   },
   "style": "./dist/css/react-calendar.css",
   "files": [
